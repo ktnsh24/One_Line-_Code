@@ -94,7 +94,7 @@ From the type of data, the user can identify, features and target variables **Da
 In this case, there were no missing value present in the dataset. So It will show 0%.
 
 ![Screen%20Shot%202018-04-23%20at%208.39.54%20PM.png](attachment:Screen%20Shot%202018-04-23%20at%208.39.54%20PM.png)
-
+![alternativetext](/Users/ketansahu/Desktop/percent+sum.png)
 # Missing values sum and percentage in each observation
 
 As we have seen, the data has no missing value, so observations count and percentage is also zero. Hence you will see the message like here. Also you can not see any table now. But, If your data has any missing values in any of the raw. you will see the sum and percentage in the table dataframe.
