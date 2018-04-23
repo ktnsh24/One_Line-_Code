@@ -99,5 +99,5 @@ In this case, there were no missing value present in the dataset. So It will sho
 
 As we have seen, the data has no missing value, so observations count and percentage is also zero. Hence you will see the message like here. Also you can not see any table now. But, If your data has any missing values in any of the raw. you will see the sum and percentage in the table dataframe.
 
-![Screen%20Shot%202018-04-23%20at%208.40.06%20PM.png](attachment:Screen%20Shot%202018-04-23%20at%208.40.06%20PM.png)
+
 
