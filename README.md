@@ -93,7 +93,7 @@ From the type of data, the user can identify, features and target variables **Da
 
 In this case, there were no missing value present in the dataset. So It will show 0%.
 
-![Screen%20Shot%202018-04-23%20at%208.39.54%20PM.png](attachment:Screen%20Shot%202018-04-23%20at%208.39.54%20PM.png)
+
 ![alternativetext](/Users/ketansahu/Desktop/percent+sum.png)
 # Missing values sum and percentage in each observation
 
