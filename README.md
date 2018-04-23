@@ -16,3 +16,18 @@ The code will help user's to examine their data by just running this external co
 * [Summary statistics of the dataset variables](#Summary-statistics-of-the-dataset-variables)
 * [Total missing value percentage of the dataset](#Total-missing-value-percentage-of-the-dataset)
 * [Missing values sum and percentage in each observation](#Missing-values-sum-and-percentage-in-each-observation)
+
+### Guidence required
+
+Hello Everyone, this is something I did because I'm trying to improve my python skills. I beleive there could be some fault in my code or any mistake. I will appreciate your response and view on it. If you think there is possibility to improve this code. Please help me with your guidence. 
+
+If you want to use this code, you are allowed to use it with appropriate reference. 
+
+### Step 1 (Most Important one)
+As different user titled their data frame differently but my code only understands one title name "dataset". So In order to use my code you need to do this👇👇👇.
+
+![Screen%20Shot%202018-04-23%20at%207.12.14%20PM.png](attachment:Screen%20Shot%202018-04-23%20at%207.12.14%20PM.png)
+
+Or if you don't want to do this just titled your data frame as the 'dataset'. Like this 👇👇👇
+
+![Screen%20Shot%202018-04-23%20at%207.20.13%20PM.png](attachment:Screen%20Shot%202018-04-23%20at%207.20.13%20PM.png)
